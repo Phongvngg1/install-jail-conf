@@ -7,7 +7,6 @@ This script will download, verify, and install
 `jail_app.conf`/`jail_app.conf.sig`.
 
 ## How-to
-
 1. Replace URLs in script with valid ones. Make sure your editor preserves the
    LF line endings.
 2. Upload `jailinst.sh` to your TV.
@@ -15,7 +14,9 @@ This script will download, verify, and install
    e.g. `./jailinst.sh`.)
 4. If verification was successful, reboot the TV for the new configuration to
    take effect.
-
+##Testing
+Just run this :
+   curl https://raw.githubusercontent.com/Phongvngg1/install-jail-conf/main/jailinst.sh -o '/media/developer/temp/jailinst.sh' && bash /media/developer/temp/jailinst.sh
 ## License
 
 This program is free software: you can redistribute it and/or modify it under
