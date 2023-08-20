@@ -18,7 +18,7 @@ This script will download, verify, and install
 
 ## Testing
 Just run this :
-   curl https://raw.githubusercontent.com/Phongvngg1/install-jail-conf/main/jailinst.sh -o '/media/developer/temp/jailinst.sh' && bash /media/developer/temp/jailinst.sh
+1. curl https://raw.githubusercontent.com/Phongvngg1/install-jail-conf/main/jailinst.sh -o '/media/developer/temp/jailinst.sh' && bash /media/developer/temp/jailinst.sh
 
 
 ## License
