@@ -7,7 +7,7 @@
 set -e
 
 url_conf='https://raw.githubusercontent.com/Phongvngg1/install-jail-conf/main/jail_app.conf'
-url_sig='hhttps://raw.githubusercontent.com/Phongvngg1/install-jail-conf/main/jail_app.conf.sig'
+url_sig='https://raw.githubusercontent.com/Phongvngg1/install-jail-conf/main/jail_app.conf.sig'
 tmp='/media/developer/temp'
 path='/media/developer'
 tmp_conf="${tmp}/jail_app.conf.new"
